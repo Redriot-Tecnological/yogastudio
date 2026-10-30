@@ -1,0 +1,158 @@
+# Skill: Diseño UI/UX - YogaStudio
+
+## 1. Propósito de la Skill
+
+Esta Skill establece los lineamientos de diseño visual y experiencia de usuario para YogaStudio, una aplicación web destinada a la administración de un estudio de yoga.
+
+Su propósito es garantizar que todas las interfaces sean visualmente coherentes, intuitivas, minimalistas y fáciles de utilizar, tanto para las alumnas como para los administradores.
+
+## 2. Identidad de la aplicación
+
+YogaStudio es una aplicación web que permite administrar las sesiones de yoga, controlar paquetes de clases, consultar cupos disponibles, agendar sesiones y recibir notificaciones sobre cambios o inconvenientes relacionados con las instructoras.
+
+La experiencia visual debe transmitir:
+- Tranquilidad.
+- Bienestar.
+- Equilibrio.
+- Armonía.
+- Confianza.
+- Profesionalismo.
+
+## 3. Estilo visual
+
+Utilizar una identidad visual vintage y minimalista, combinando elementos tradicionales con una interfaz moderna.
+
+Evitar diseños excesivamente recargados, efectos visuales innecesarios y elementos que distraigan al usuario.
+
+### Paleta de colores
+
+Utilizar los siguientes colores como referencia:
+
+- Café: para títulos, elementos destacados y detalles visuales.
+- Verde: para acciones positivas, estados disponibles y elementos secundarios.
+- Crema: como color principal de fondo.
+- Beige: para superficies y tarjetas.
+- Café oscuro: para textos principales.
+
+Los colores deben mantener un equilibrio visual y garantizar suficiente contraste.
+
+### Tipografía
+
+Utilizar Montserrat como tipografía principal.
+
+Establecer jerarquías visuales claras:
+- Títulos: destacados y fáciles de identificar.
+- Subtítulos: utilizados para organizar secciones.
+- Texto general: legible y de tamaño adecuado.
+- Etiquetas: breves y descriptivas.
+
+## 4. Diseño de interfaces
+
+### Panel administrativo
+
+Diseñar un dashboard que permita visualizar rápidamente:
+
+- Total de alumnas registradas.
+- Clases programadas.
+- Reservas confirmadas.
+- Cupos disponibles.
+- Alumnas en lista de espera.
+- Paquetes activos y sesiones pendientes.
+
+Organizar la información mediante tarjetas, indicadores y secciones bien diferenciadas.
+
+### Panel de alumnas
+
+Diseñar una experiencia sencilla que permita:
+
+- Consultar las próximas clases.
+- Visualizar sesiones disponibles.
+- Agendar una clase.
+- Consultar el paquete adquirido.
+- Revisar cuántas sesiones quedan disponibles.
+- Consultar notificaciones y cambios de horario.
+
+### Gestión de paquetes
+
+Utilizar tarjetas informativas para mostrar:
+
+- Nombre del paquete.
+- Cantidad total de clases.
+- Clases utilizadas.
+- Clases restantes.
+- Estado del paquete.
+
+Los datos deben ser fáciles de comprender y consultar.
+
+### Gestión de clases
+
+Diseñar componentes que permitan identificar:
+
+- Nombre de la clase.
+- Fecha y horario.
+- Instructora asignada.
+- Cupo máximo de 12 personas.
+- Reservas confirmadas.
+- Disponibilidad de espacios.
+
+### Lista de espera
+
+Diferenciar visualmente las reservas confirmadas de las alumnas en espera.
+
+Mostrar claramente la posición de cada alumna y la disponibilidad de cupos.
+
+### Notificaciones
+
+Diseñar notificaciones claras para comunicar:
+
+- Cancelaciones.
+- Cambios de horario.
+- Ausencia de instructoras.
+- Modificaciones en las sesiones programadas.
+
+## 5. Experiencia de usuario (UX)
+
+La navegación debe ser sencilla para personas de entre 18 y 60 años.
+
+Aplicar los siguientes principios:
+
+- Priorizar la facilidad de aprendizaje.
+- Evitar procesos innecesariamente largos.
+- Utilizar botones con nombres claros.
+- Mantener una navegación consistente.
+- Mostrar mensajes de confirmación después de realizar acciones.
+- Informar cuando no existan clases o paquetes disponibles.
+- Diferenciar los estados mediante etiquetas e indicadores visuales.
+
+## 6. Componentes reutilizables
+
+Mantener consistencia en los siguientes elementos:
+
+- Botones.
+- Tarjetas.
+- Formularios.
+- Menús de navegación.
+- Indicadores de disponibilidad.
+- Etiquetas de estado.
+- Modales de confirmación.
+- Notificaciones.
+
+Evitar crear diferentes versiones de un mismo componente sin justificación.
+
+## 7. Diseño responsivo
+
+La aplicación debe adaptarse a:
+
+- Computadoras de escritorio.
+- Tablets.
+- Teléfonos móviles.
+
+En pantallas pequeñas, reorganizar los componentes para mantener una navegación cómoda, evitar desbordamientos y garantizar la legibilidad.
+
+## 8. Restricciones
+
+No incorporar diseños ni secciones relacionadas con:
+
+- Videos de yoga.
+- Rutinas o entrenamientos.
+- Tienda en
